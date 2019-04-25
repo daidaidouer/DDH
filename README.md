@@ -8,4 +8,5 @@
 ## Training and Testing
 Run *train.py* with the following parameters: *learning rate, alpha, theta, lambda, epoch, dimension of codes, batch size*.
 (Example: *python train.py 0.001 0.0001 1.1 1 32 128*)
+
 After training, the testing results will be given.
