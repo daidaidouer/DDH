@@ -1,5 +1,12 @@
 # Deep Discriminating Hashing for Remote Sensing Image Retrieval
 
+## Require
+- cuda 9.0
+- cudnn >= 7.0.1
+- python >= 3.5
+- tensorflow >= 1.9.0
+- opencv-python >= 3.4.5.20
+
 ## Prepare Data
 - Download HSRI Database from https://drive.google.com/drive/folders/1Qb4xjSB6PJRsoVy_m6253wsmFAykPCkD?usp=sharing
 - Copy the *.txt files* from HSRI dataset to this folder (remember to change the path of each image).
